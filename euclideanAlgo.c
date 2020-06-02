@@ -1,4 +1,4 @@
-/* libraries */
+/* library */
 #include <stdio.h>
 
 /* function using the euclidean algorithm to get the largest common factor */
